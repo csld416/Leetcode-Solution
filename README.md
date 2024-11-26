@@ -15,6 +15,9 @@ This repository includes solutions to various Leetcode problems, categorized by 
 • A Markdown file with the solution, explanation, and insights.
 • Code snippets and/or visual illustrations when needed.
 
+I also upolad and catagorize the problems in notion, see:
+[Notion.so](https://legend-avatar-1ba.notion.site/887399cdee8c40c5b5348fe077647090?v=de6fcd8796144cd5b19cb39964a3cce8&pvs=4)
+
 ## How to Use
 
 1. Clone the repository:
@@ -32,7 +35,7 @@ cat L0238.md
 
 3. Review the explanations and code to deepen your understanding.
 
-License
+## License
 
 This repository is distributed under the MIT License. See LICENSE for more details.
 
